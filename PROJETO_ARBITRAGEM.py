@@ -1,10 +1,5 @@
-import numpy as np #IMPORTAÇÃO DAS PLATAFORMAS
 import pandas as pd
-import matplotlib.pyplot as plt
 import yfinance as yf
-import seaborn
-import statsmodels
-import statsmodels.api as sm
 from statsmodels.tsa.stattools import coint
 from tkinter import *
 from tkinter.ttk import *
